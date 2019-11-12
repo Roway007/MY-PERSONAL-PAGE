@@ -16,8 +16,9 @@
 
 ## My Social Networks
 - For more details see Visit My Facebook.
-- (https://www.facebook.com/Royssth).
-- (https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo).
+(https://www.facebook.com/Royssth).
+- For more details see Visit My Instagram.
+(https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo).
 
 
 ### My Ubicación
