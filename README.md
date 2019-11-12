@@ -16,11 +16,11 @@
 
 ## My Social Networks
 - For more details see Visit My Facebook.
-<iframe src="https://www.facebook.com/ROWAY007/?view_public_for=163798147618941"></iframe>
+
 <p><a href="https://www.facebook.com/Royssth">Facebook</a></p>
              
 - For more details see Visit My Instagram.
-<iframe src="https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo"></iframe>
+
 <p><a href="https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo">Instagram</a></p>
 
 
