@@ -17,11 +17,11 @@
 ## My Social Networks
 - For more details see Visit My Facebook.
 
-<p><a href="https://www.facebook.com/Royssth">Facebook</a></p>
+<p><a href="https://www.facebook.com/Royssth" target="_blank">Facebook</a></p>
              
 - For more details see Visit My Instagram.
 
-<p><a href="https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo">Instagram</a></p>
+<p><a href="https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo" target="_blank">Instagram</a></p>
 
 
 ### My Ubicación
