@@ -1,26 +1,19 @@
-## Quiñonoez Lara Roy Alexander.
+#Quiñonez Lara Roy Alexander.
 
-You can use the [editor on GitHub](https://github.com/Roway007/Personal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Una breve reseña sobre mí ;)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### My Life
+# My Live
+-Nací en el 2001 un 22 de agosto, nacido en Quinindé (Ecuador/Esmeraldas), vengo de una familia muy humilde que gracias a Dios me supo criar con valores que a dia de hoy olvido.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# My Future
 ## Hobbies
+- Me gusta leer mucho, amo la literatura(cualquiera que sea).
+- Me gustan los deportes extremos.
+- Amo hacer deporte, de preferencia futbol.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-For more details see My Facebook(https://www.facebook.com/Royssth).
+## My Social Networks
+For more details see Visit My Facebook(https://www.facebook.com/Royssth).
+For more details see Visit My Facebook(https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo).
 
 ### Jekyll Themes
 
