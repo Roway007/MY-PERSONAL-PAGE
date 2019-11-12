@@ -1,6 +1,6 @@
-#Quiñonez Lara Roy Alexander.
+##Quiñonez Lara Roy Alexander.
 
-Una breve reseña sobre mí ;)
+-Una breve reseña sobre mí ;)
 
 
 # My Live
@@ -12,8 +12,9 @@ Una breve reseña sobre mí ;)
 - Amo hacer deporte, de preferencia futbol.
 
 ## My Social Networks
-For more details see Visit My Facebook(https://www.facebook.com/Royssth).
-For more details see Visit My Facebook(https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo).
+-For more details see Visit My Facebook.
+-(https://www.facebook.com/Royssth).
+-(https://www.instagram.com/royalex_2001/?fbclid=IwAR2gaUnDqaoGkL147qnVwkdeBkrXv6KQER1b45qcjTLWhGiF99M9EPZLWFo).
 
 ### Jekyll Themes
 
