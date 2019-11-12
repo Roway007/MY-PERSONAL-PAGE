@@ -1,4 +1,4 @@
-# <big>Quiñonez Lara Roy Alexander.</big>
+# <big><big>Quiñonez Lara Roy Alexander.</big></big>
 
 
 - Una breve reseña sobre mí ;)
