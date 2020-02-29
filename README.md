@@ -11,3 +11,8 @@
 #SIENTO TODO!!
 
 #ENSERIO SIENTO TODO.
+
+<a href="https://wa.me/5930990291804?text=!%20ESCRIBEME%20PARA%20DARNOS%20UNOS%20BESOS%20TU%20APUUUURALEEEEEE%20!">
+						<ion-icon name="logo-whatsapp"></ion-icon>
+						<h1>HAZ CLICK AQUI BOMBOM ;)</h1>
+					</a>
